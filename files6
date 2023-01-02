@@ -1,2 +1,6 @@
 Branches can be created for multiple reason here we have created branches for releases.
+
+it is used to undo the commited changes in the previous commit id it 
+doesnot delete the histroy we can track who done the revert.
+
 whatever the issue we have faced in the release one should not be visible in release two on future releases.
